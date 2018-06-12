@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ehcache.iml" filepath="$PROJECT_DIR$/Ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-echcahe/spring-echcahe.iml" filepath="$PROJECT_DIR$/spring-echcahe/spring-echcahe.iml" />
+    </modules>
+  </component>
+</project>
